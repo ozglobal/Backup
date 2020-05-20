@@ -11,8 +11,5 @@
   * [Quick Start](oz-toto-1/quick-start.md)
 * [QR Sign](qr-sign/README.md)
   * [Introduction](qr-sign/introduction.md)
-* [Title](title/README.md)
-  * [Untitled1](title/untitled.md)
-  * [Untitled2](title/untitled2.md)
 * [Product Advantages](product-advantages.md)
 
