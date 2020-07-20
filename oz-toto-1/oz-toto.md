@@ -20,7 +20,7 @@
 | Device API | get device information |
 | Storage API | store and retrieve local storage |
 | HTTP send API | send data to the given URL |
-| Navigator API | provide Home, Back, Forward, Refresh |
+| Navigator API | provide Home, Back, Forward, Refresh button |
 | Environment API | get information of network or app |
 | Util API | phone call, phone text, display a message |
 | OZ PDF viewer API | open PDF document |
