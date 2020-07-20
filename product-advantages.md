@@ -1,4 +1,0 @@
-# Product Advantages
-
-Born Digital
-
