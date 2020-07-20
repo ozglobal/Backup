@@ -2,16 +2,16 @@
 
 ## What is OZ TOTO Framework <a id="1-introduction"></a>
 
-‌OZ Toto framework is a hybrid web app framework for OZ e-Form that enables us to create **single-source cross-platform** mobile application. Application code on the server runs on the mobile like web application.‌
+‌OZ Toto framework is a hybrid web app framework for OZ e-Form that enables you to create **single-source. cross-platform** mobile application. Web application scripts on the server run on the mobile device like a web application.‌
 
 ## Features
 
-* In web pages with JavaScript, native OZ mobile viewer can perfectly be controlled .
+* With JavaScript from the web page, native OZ Mobile Viewer can be controlled.
 * Both web and app windows can be displayed in the same Activity.
-* Even though mobile network is offline, secured local storage keeps data created online.
-* Application can be run in offline mode.
-* Offline application code can be deployed on the mobile device.
-* Web code can run native code and native code can run web code by dispatching event to the other.
+* Even though the mobile network is offline, secured local storage keeps data created online.
+* Application can also run in offline mode.
+* Application code can be deployed on the mobile device for offline.
+* Web code can run native code and native code can run web code by dispatching events to each other.
 
 ## APIs
 
@@ -20,13 +20,13 @@
 | OZ viewer | run and control OZ viewer |
 | Device API | get device information |
 | Storage API | store and retrieve local storage |
-| HTTP send API | send data to the given url |
+| HTTP send API | send data to the given URL |
 | Navigator API | provide Home, Back, Forward, Refresh |
 | Environment API | get information of network or app |
-| Util API | phone call, phone text, display message |
+| Util API | phone call, phone text, display a message |
 | OZ PDF viewer API | open PDF document |
-| Location API | get current location of device |
-| Indicator API | start or stop waiting indicator |
+| Location API | get current location of the device |
+| Indicator API | start or stop waiting for the indicator |
 
 ## System Requirements
 
