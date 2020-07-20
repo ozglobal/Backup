@@ -2,16 +2,15 @@
 
 ## What is OZ TOTO Framework <a id="1-introduction"></a>
 
-‌OZ Toto framework is a hybrid web app framework for OZ e-Form that enables you to create **single-source. cross-platform** mobile application. Web application scripts on the server run on the mobile device like a web application.‌
+‌OZ Toto framework is a hybrid mobile app framework for OZ e-Form application. You can create web applications with OZ e-Form that run on mobile devices through the web view.‌
 
 ## Features
 
-* With JavaScript from the web page, native OZ Mobile Viewer can be controlled.
+* Native OZ Mobile Viewer can be controlled by JavaScript from the web application.
 * Both web and app windows can be displayed in the same Activity.
-* Even though the mobile network is offline, secured local storage keeps data created online.
-* Application can also run in offline mode.
+* Online data can be saved on local storage and it is alive in offline.
 * Application code can be deployed on the mobile device for offline.
-* Web code can run native code and native code can run web code by dispatching events to each other.
+* The web code can call native code and native code can call web code by dispatching events to each other.
 
 ## APIs
 
